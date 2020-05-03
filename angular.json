@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pwd"
+    }
+  },
+  "defaultProject": "pwd",
+  "cli": {
+    "analytics": false
+  }
 }
